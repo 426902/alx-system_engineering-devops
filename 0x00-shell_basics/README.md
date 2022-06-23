@@ -1,1 +1,1 @@
-script that prints the path
+What’s in there?
