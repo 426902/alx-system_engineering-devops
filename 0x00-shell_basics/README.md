@@ -1,1 +1,1 @@
-Delete the directory my_first_directory that is in the /tmp directory
+ copies all the HTML files from the current working directory
