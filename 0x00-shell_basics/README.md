@@ -1,1 +1,1 @@
-clean Emacs
+File type:School
