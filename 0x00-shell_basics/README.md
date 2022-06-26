@@ -1,1 +1,2 @@
- copies all the HTML files from the current working directory
+lets move > README.md
+echo lets move
