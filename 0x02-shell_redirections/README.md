@@ -5,4 +5,3 @@
 6-script that displays the third line of the file iacta.
 7-script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
 8-Write a script that writes into the file ls_cwd_content the result of the command ls -la
-11- script that counts the number of directories and sub-directories in the current directory.
